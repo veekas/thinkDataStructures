@@ -1,0 +1,12 @@
+{
+  "name": "think-data-structures-js-implementations",
+  "version": "1.0.0",
+  "description": "rewriting examples from Think Data Structures in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Veekas Shrivastava <veekas@veekasmeansprogress.com> (https://www.veekasmeansprogress.com/)",
+  "license": "MIT"
+}
